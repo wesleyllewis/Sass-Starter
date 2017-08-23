@@ -1,0 +1,19 @@
+{
+    "name": "sass_starter",
+    "version": "1.0.0",
+    "description": "Sass Starter Pack",
+    "main": "index.js",
+    "scripts": {
+        "start": "gulp"
+    },
+    "author": "Wesley Lewis <wesley.l.lewis@gmail.com> (http://wesleylewis.us)",
+    "license": "MIT",
+    "devDependencies": {
+        "browser-sync": "^2.18.13",
+        "gulp": "^3.9.1",
+        "gulp-sass": "^3.1.0"
+    },
+    "dependencies": {
+        "sass-lint": "^1.10.2"
+    }
+}
